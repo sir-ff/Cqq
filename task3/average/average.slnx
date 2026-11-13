@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="average/average.vcxproj" Id="f5f80aa1-729b-4845-8964-31b304eb0b4d" />
+</Solution>

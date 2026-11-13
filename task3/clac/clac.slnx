@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="clac/clac.vcxproj" Id="cd112874-99b3-47eb-9b58-1aa21131b661" />
+</Solution>
