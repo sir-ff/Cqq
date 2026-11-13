@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\card.obj",
+            "outputs": [
+                "x64\\Debug\\card.cpp.obj.dt.module.json",
+                "x64\\Debug\\card.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
