@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="overflow/overflow.vcxproj" Id="bab2acb5-a5f4-46c1-9210-d1c9fde1f93e" />
+</Solution>
