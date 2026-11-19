@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\truncate.obj",
+            "outputs": [
+                "x64\\Debug\\truncate.cpp.obj.dt.module.json",
+                "x64\\Debug\\truncate.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

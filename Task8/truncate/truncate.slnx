@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="truncate/truncate.vcxproj" Id="76d5eaf7-2704-49a3-be4a-c9d0e48899c5" />
+</Solution>
