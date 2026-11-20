@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="trap_range/trap_range.vcxproj" Id="f2497f46-69a4-41a1-b3f3-d009ffab1669" />
+</Solution>
